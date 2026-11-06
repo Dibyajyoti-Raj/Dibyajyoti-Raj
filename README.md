@@ -2,7 +2,7 @@
 
 ### Data Analyst | SQL | Power BI | Python | ETL | Business Intelligence
 
-Data Analyst with **1 year of professional experience** in ETL processes, data analysis, and business intelligence reporting. Skilled in SQL, Advanced Excel, Power BI, and Python libraries (Pandas and NumPy), with a strong foundation in data processing, transformation, and analytical problem-solving.
+Data Analyst with **professional experience in ETL processes, data analysis, and business intelligence** reporting. Skilled in SQL, Advanced Excel, Power BI, and Python libraries (Pandas and NumPy), with a strong foundation in data processing, transformation, and analytical problem-solving.
 
 Experienced in developing and optimizing complex SQL queries to improve execution time, enhance database performance, and efficiently process large datasets. Hands-on experience developing and maintaining financial Power BI reports, translating business requirements into interactive visualizations, meaningful insights, and data-driven solutions.
 
