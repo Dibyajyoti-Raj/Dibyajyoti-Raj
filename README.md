@@ -1,4 +1,4 @@
-#Hi, there! It's Dibyajyoti! 👋
+# Hi, there! It's Dibyajyoti!👋
 
 ### Data Analyst | SQL | Power BI | Python | ETL | Business Intelligence
 
